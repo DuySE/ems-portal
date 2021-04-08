@@ -1,0 +1,10 @@
+div.login {
+	display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+form {
+  width: 25%;
+  margin: auto;
+}
